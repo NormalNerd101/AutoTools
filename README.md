@@ -1,8 +1,8 @@
-# RUN facebot.py
-## This is an autobot that helps you add friend in facebok.
+# My AutoTools
+## I'll be making (dumb ?) / mini / cute bots for entertainment.
 
-You can read the **original source code** from source_code.txt (date back then : 2020)
+I'll also be adding **original source code** (before I updated / wrote). 
 
-I have modified / updated some features as of now for suitability (26/03/2024).
+There's only Facebook-Addfriendbot for now :v.
 
-# ENJOY :V
+# ENJOY :vvv
