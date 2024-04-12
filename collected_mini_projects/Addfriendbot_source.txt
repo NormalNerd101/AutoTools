@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# This bot dates back to 2020. I've updated it in the Addfriendbot source code.
+
 import time
 HEADER = '\033[95m' # colours
 OKBLUE = '\033[94m'
