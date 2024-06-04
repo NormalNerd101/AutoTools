@@ -19,6 +19,10 @@ ENDC = '\033[0m'
 BOLD = '\033[1m'
 UNDERLINE = '\033[4m'
 
+"""
+    Not working . Issues related to cookies capturing.
+"""
+
 # Set up logging
 logging.basicConfig(level=logging.INFO)
 
